@@ -95,7 +95,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                        <label for="toko_kios">toko_kios</label>
+                        <label for="toko_kios">Toko Kios</label>
                         <input type="text" name="toko_kios" value="{{ old('toko_kios') }}" class="form-control" id="toko_kios">
                         @error('toko_kios')
                         <div class="ml-1" style="color: red;">
